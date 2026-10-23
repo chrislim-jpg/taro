@@ -1,0 +1,20 @@
+{
+  "name": "tarotica",
+  "version": "1.0.0",
+  "description": "타로티카 | 나를 돌아보는 AI 타로 모바일 웹 애플리케이션",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve -l 3000 .",
+    "build": "echo 'Static build ready for Vercel'"
+  },
+  "keywords": [
+    "tarot",
+    "tarotica",
+    "ai-tarot",
+    "mobile-web",
+    "vercel"
+  ],
+  "author": "chrislim-jpg",
+  "license": "MIT"
+}

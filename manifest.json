@@ -1,0 +1,17 @@
+{
+  "name": "타로티카 | 나를 돌아보는 AI 타로",
+  "short_name": "타로티카",
+  "description": "매일 한 장의 타로와 AI 심층 리딩으로 내 마음을 돌아보는 모바일 타로 서비스",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2877f5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
